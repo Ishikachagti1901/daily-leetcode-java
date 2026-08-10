@@ -15,4 +15,12 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
