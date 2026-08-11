@@ -7,6 +7,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
@@ -33,6 +34,7 @@ My daily LeetCode solutions in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
