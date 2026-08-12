@@ -42,4 +42,20 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/1143-longest-common-subsequence) |
+## Array
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
+## Depth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
+## Matrix
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
