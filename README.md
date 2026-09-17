@@ -47,6 +47,7 @@ My daily LeetCode solutions in Java.
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0051-n-queens) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
 ## Depth-First Search
 |  |
@@ -65,4 +66,12 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
