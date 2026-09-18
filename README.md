@@ -32,6 +32,7 @@ My daily LeetCode solutions in Java.
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
@@ -47,6 +48,7 @@ My daily LeetCode solutions in Java.
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0051-n-queens) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
 ## Depth-First Search
@@ -61,6 +63,7 @@ My daily LeetCode solutions in Java.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0037-sudoku-solver) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
 ## Bidirectional Search
 |  |
@@ -69,11 +72,17 @@ My daily LeetCode solutions in Java.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
