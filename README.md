@@ -49,6 +49,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0051-n-queens) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
 ## Depth-First Search
@@ -73,6 +74,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0052-n-queens-ii) |
 ## Algorithm X
