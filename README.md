@@ -25,6 +25,7 @@ My daily LeetCode solutions in Java.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0025-reverse-nodes-in-k-group) |
+| [0148-sort-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0234-palindrome-linked-list) |
@@ -32,6 +33,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
@@ -101,10 +103,19 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
