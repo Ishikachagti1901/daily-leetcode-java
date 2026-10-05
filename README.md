@@ -24,6 +24,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
@@ -113,9 +114,19 @@ My daily LeetCode solutions in Java.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
