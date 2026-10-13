@@ -73,11 +73,13 @@ My daily LeetCode solutions in Java.
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0127-word-ladder) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
 ## Matrix
@@ -155,8 +157,10 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
