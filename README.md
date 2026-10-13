@@ -77,6 +77,7 @@ My daily LeetCode solutions in Java.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0127-word-ladder) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
 ## Matrix
@@ -150,4 +151,12 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ishikachagti1901/daily-leetcode-java/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
